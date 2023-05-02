@@ -1,4 +1,4 @@
-# clothstore
+# CLOTHSTORE REACT.JS
 Responsive Frontend Design WebApp with React js.
 
 Jsx, Bootstrap and Css are used to create and design the structure.
